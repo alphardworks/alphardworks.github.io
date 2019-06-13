@@ -98,4 +98,4 @@ If we make material changes to how we use Personal Information collected from ch
 
 ## 8 Contact us
 
-We welcome your comments or questions regarding this Privacy Policy. Please e-mail us at alphard@outlook.com.
+We welcome your comments or questions regarding this Privacy Policy. Please e-mail us at alphardworks@outlook.com.
