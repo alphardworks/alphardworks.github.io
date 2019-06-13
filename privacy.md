@@ -1,10 +1,10 @@
 # PRIVACY POLICY
 
-Rolling ABC Game Studio (“we”, “us”, “our”) is committed to maintaining customer privacy through an ethical performance culture that is based on trust, simplicity and confidence. It is one of Rolling ABC Game Studio’s core principles to secure customer information while using our mobile applications (“products”), and provide privacy protection that is critical in maintaining trust and providing better services. Rolling ABC Game Studio’s individual privacy protection policy ensures the confidentiality of customer information under the defined terms and conditions below. 
+AlphardWorks Studio (“we”, “us”, “our”) is committed to maintaining customer privacy through an ethical performance culture that is based on trust, simplicity and confidence. It is one of AlphardWorks Studio’s core principles to secure customer information while using our mobile applications (“products”), and provide privacy protection that is critical in maintaining trust and providing better services. AlphardWorks Studio’s individual privacy protection policy ensures the confidentiality of customer information under the defined terms and conditions below. 
 
 ## 1 Effective date and update
 
-Effective date of this privacy policy：2019/05/15
+Effective date of this privacy policy：2019/06/15
 
 ## 2 Information we will collect and trace 
 
@@ -34,7 +34,7 @@ When you post messages on the help forums or message boards of our Site, the inf
 
 ### 2.3 Information Collected from You About Others.
 
-If you decide to invite a third party to create an Account, we will collect your and the third party's names and e-mail addresses in order to send an e-mail and follow up with the third party. You or the third party may contact us at rolling.abc@outlook.com to request the removal of this information from our database.
+If you decide to invite a third party to create an Account, we will collect your and the third party's names and e-mail addresses in order to send an e-mail and follow up with the third party. You or the third party may contact us at alphardworks@outlook.com to request the removal of this information from our database.
 
 ## 3 The purpose of collecting information functions:
 
@@ -78,17 +78,17 @@ We are committed to protecting the security of your Personal Data. We use a vari
 
 ## 6 Disclaimers
 
-### 6.1 In case any competent government authority requests us to disclose any personal user identification information in accordance with relevant legal procedures, laws or regulations, we will provide such personal user information according to the requirements of the government authority or for the purpose of public safety. Rolling ABC Game Studio will assume no liability for any disclosure in such case.
+### 6.1 In case any competent government authority requests us to disclose any personal user identification information in accordance with relevant legal procedures, laws or regulations, we will provide such personal user information according to the requirements of the government authority or for the purpose of public safety. AlphardWorks Studio will assume no liability for any disclosure in such case.
 
-### 6.2 Rolling ABC Game Studio will not assume any responsibility for any of your personal information that is disclosed for your own reasons (for example, when you voluntarily disclose to other people your password or when you share your account with other people). 
+### 6.2 AlphardWorks Studio will not assume any responsibility for any of your personal information that is disclosed for your own reasons (for example, when you voluntarily disclose to other people your password or when you share your account with other people). 
 
-### 6.3 Rolling ABC Game Studio assumes no responsibility for any personal information that is lost, disclosed, or falsified due to forces beyond Rolling ABC Game Studio’s control, including but not limited to events that may affect normal network operations, such as hacker attack, intrusion or attack of computer virus and temporary closure of websites due to government regulations or actions. 
+### 6.3 AlphardWorks Studio assumes no responsibility for any personal information that is lost, disclosed, or falsified due to forces beyond AlphardWorks Studio’s control, including but not limited to events that may affect normal network operations, such as hacker attack, intrusion or attack of computer virus and temporary closure of websites due to government regulations or actions. 
 
-### 6.4 Rolling ABC Game Studio assumes no responsibility for the disclosure of personal particulars or other customer information caused by (i) the other websites linked with our website or referred to in our website, products or services; (ii) third party software or coding incorporated in our website, products or services; or (iii) the incorporation of any part of our products into the websites, products or services provided by third parties, as well as any legal dispute and consequence resulting from any of (i)-(iii). 
+### 6.4 AlphardWorks Studio assumes no responsibility for the disclosure of personal particulars or other customer information caused by (i) the other websites linked with our website or referred to in our website, products or services; (ii) third party software or coding incorporated in our website, products or services; or (iii) the incorporation of any part of our products into the websites, products or services provided by third parties, as well as any legal dispute and consequence resulting from any of (i)-(iii). 
 
-### 6.5 Rolling ABC Game Studio assumes no responsibility when it or a third party uses your personal information in accordance with provisions of relevant laws or regulations or this privacy policy. 
+### 6.5 AlphardWorks Studio assumes no responsibility when it or a third party uses your personal information in accordance with provisions of relevant laws or regulations or this privacy policy. 
 
-### 6.6 Rolling ABC Game Studio assumes no responsibility when your personal information is disclosed due to unpredictable and inevitable risks of the internet, including without limitation: virus attack, hijacking, temporary site closure or server closure resulted from government control and inevitable technical defects of the software due to technical level at the time of development.
+### 6.6 AlphardWorks Studio assumes no responsibility when your personal information is disclosed due to unpredictable and inevitable risks of the internet, including without limitation: virus attack, hijacking, temporary site closure or server closure resulted from government control and inevitable technical defects of the software due to technical level at the time of development.
 
 ## 7 Policy modifications
 
@@ -98,4 +98,4 @@ If we make material changes to how we use Personal Information collected from ch
 
 ## 8 Contact us
 
-We welcome your comments or questions regarding this Privacy Policy. Please e-mail us at rolling.abc@outlook.com.
+We welcome your comments or questions regarding this Privacy Policy. Please e-mail us at alphard@outlook.com.
